@@ -1,5 +1,5 @@
 # Overview
-This README provides an overview of the Company Listing Application, which allows users to view a list of companies and apply directly through the platform. The application is built using Node.js with Express for the backend, and it utilizes MongoDB for data storage.
+The Company Listing Application is a web-based platform designed to facilitate the discovery and application process for job seekers looking to connect with various companies.
 
 # Features
 - User Authentication: Users can sign up and sign in to access the application.
